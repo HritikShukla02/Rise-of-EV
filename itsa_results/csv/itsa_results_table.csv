@@ -1,0 +1,5 @@
+Intervention,Date,Immediate (log),Immediate SE,Immediate %,Imm. Sig.,Trend,Trend SE,Trend Sig.,AIC,DW
+FAME II Scheme,2019-04-01,-0.029,(0.057),-2.9%,,0.0242,(0.0043),***,-949.4,1.99
+Major Product Launches,2020-01-20,-0.075,(0.026),-7.2%,**,0.0276,(0.0016),***,-963.9,2.01
+COVID-19 Lockdown,2020-03-25,-0.166,(0.023),-15.3%,***,0.0299,(0.0009),***,-969.1,1.90
+PLI Scheme,2021-09-01,0.099,(0.048),+10.4%,*,0.0368,(0.0017),***,-969.9,1.96
